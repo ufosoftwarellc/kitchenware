@@ -130,4 +130,5 @@ dmypy.json
 
 #submission directory
 /submissions
+/noisy_weights
 
