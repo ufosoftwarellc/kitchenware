@@ -131,4 +131,6 @@ dmypy.json
 #submission directory
 /submissions
 /noisy_weights
+/data
+/kitchenware_model
 
