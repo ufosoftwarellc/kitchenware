@@ -17,3 +17,8 @@ The goal of the competition was to classify images of kitchenware items into 6 c
 - Incorporated [imgaug](https://imgaug.readthedocs.io/en/latest/) 
 	- to generate synthetic data
 	- improve training by presenting the neural network with variations of the training images
+	
+## Datasets
+[Main Dataset](https://www.kaggle.com/competitions/kitchenware-classification/data)
+[Extra Images](https://www.kaggle.com/datasets/agrigorev/kitchenware-extra-images)
+
