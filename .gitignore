@@ -133,4 +133,5 @@ dmypy.json
 /noisy_weights
 /data
 /kitchenware_model
+/temp
 
